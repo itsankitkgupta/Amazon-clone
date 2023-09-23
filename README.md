@@ -1,2 +1,2 @@
 # Amazon-clone
-I have made a clone of Amazon.com website using only HTML and CSS  o
+I have made a clone of Amazon.com website using only HTML and CSS  
